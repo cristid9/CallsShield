@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Block the it</string>
+    <string name="title_activity_sms_listener">SmsListener</string>
+</resources>
